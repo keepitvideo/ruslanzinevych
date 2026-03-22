@@ -7,15 +7,16 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#0D0D12',
-        accent: '#C9A84C',
-        background: '#FAF8F5',
-        textDark: '#2A2A35',
+        obsidian: '#0A0A0F',
+        champagne: '#C9A252',
+        cream: '#F5F0E8',
+        stone: '#8A7F72',
+        darkcard: '#111118',
+        charcoal: '#1C1C26',
       },
       fontFamily: {
-        heading: ['Inter', 'sans-serif'],
-        drama: ['"Playfair Display"', 'serif'],
-        data: ['"JetBrains Mono"', 'monospace'],
+        serif: ['"Cormorant Garamond"', 'serif'],
+        sans: ['Lato', 'sans-serif'],
       },
     },
   },

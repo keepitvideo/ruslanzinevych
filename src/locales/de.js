@@ -1,0 +1,168 @@
+export default {
+  nav: {
+    home: 'Startseite',
+    about: 'Il Maestro',
+    contact: 'Kontakt',
+    bookNow: 'Buchen',
+    tenor: 'Ruslan Zinevych · Tenor'
+  },
+  hero: {
+    label: 'Ukrainischer Tenor',
+    name1: 'Ruslan',
+    name2: 'Zinevych',
+    subtitle: 'Zwei Jahrzehnte auf den renommiertesten Bühnen der Welt – vom Mariinski-Theater bis zum Concertgebouw. Gesangliche Exzellenz, Regie und Pädagogik.',
+    watch: 'Auftritte ansehen',
+    meet: 'Den Maestro kennenlernen',
+    scroll: 'Scrollen'
+  },
+  aboutStrip: {
+    label: 'Über den Maestro',
+    quote: '"Eine Stimme von bemerkenswerter Raffinesse – dramatische Kraft gepaart mit lyrischer Anmut."',
+    desc1: 'Geboren in Czernowitz, Ukraine, bin ich Tenor, Gesangspädagoge und Kulturmanager. Zwei Jahrzehnte lang war ich erster Solist an der Nationalen Akademischen Oper Odessa und baute gleichzeitig meine internationale Karriere an ikonischen Spielstätten in ganz Europa aus.',
+    desc2: 'Als Preisträger des Antonín-Dvořák-Wettbewerbs und Inhaber des Belvedere-Sonderpreises stand ich gemeinsam mit Luciano Pavarotti, Elīna Garanča, Leo Nucci und Anna Netrebko auf der Bühne.',
+    fullBio: 'Vollständige Biografie'
+  },
+  performances: {
+    label: 'Auf der Bühne',
+    title: 'Auftritte',
+    all: 'Alle',
+    nowPlaying: 'Jetzt läuft',
+    role: 'Rolle',
+    loading: 'Lade Kunstfertigkeit...'
+  },
+  timeline: {
+    label: 'Karriere',
+    title: 'Ein Leben in der Musik'
+  },
+  masterclass: {
+    label: 'Gesangsausbildung',
+    title: 'Masterclasses',
+    desc: 'Einzel- und Gruppen-Masterclasses für lyrisches und dramatisches Tenor-Repertoire in Deutsch, Italienisch, Ukrainisch, Polnisch und Russisch.',
+    enquire: 'Jetzt anfragen'
+  },
+  aboutPage: {
+    label: 'Tenor · Gesangspädagoge · Kulturmanager',
+    title1: 'Künstlerische',
+    title2: 'Exzellenz',
+    desc: 'Ruslan Zinevych ist ein bedeutender ukrainischer Tenor, dessen Karriere sich über die angesehensten Opernhäuser und Konzertsäle der Welt erstreckt. Bekannt für seine raffinierte Gesangstechnik und dramatische Vielseitigkeit, teilte er die Bühne mit legendären Persönlichkeiten der Opernwelt.',
+    origin: 'Herkunft',
+    originVal: 'Czernowitz, Ukraine',
+    based: 'Ansässig in',
+    basedVal: 'Regensburg, Deutschland',
+    voice: 'Stimmfach',
+    voiceVal: 'Lyrischer Tenor',
+    careerLabel: 'Internationale Karriere',
+    careerP1: 'Zwei Jahrzehnte lang (1995–2015) war Herr Zinevych erster Solist an der Nationalen Akademischen Oper Odessa. Seine internationale Karriere führte ihn an ikonische Orte wie die Royal Albert Hall (London), das Concertgebouw (Amsterdam), die Lettische Nationaloper (Riga), die Nationaloper der Ukraine und zahlreiche italienische Häuser.',
+    careerP2: 'Einer der Höhepunkte seiner Karriere war das gemeinsame Konzert mit dem legendären Luciano Pavarotti in Sassuolo, Italien. Er arbeitete auch mit Weltstars wie Elīna Garanča, Anna Netrebko und Leo Nucci zusammen.',
+    pedagogyLabel: 'Produktion & Pädagogik',
+    pedagogyP1: 'Neben dem Gesang hat Herr Zinevych außergewöhnliches Geschick in der Opernregie bewiesen. Von 2014 bis 2017 arbeitete er mit der britischen Produzentin Ellen Kent als Regieassistent für Produktionen von Tosca, Carmen und Rigoletto zusammen.',
+    pedagogyP2: 'Derzeit widmet er sich der Ausbildung junger Sänger an der Nationalen Musikakademie Odessa und durch internationale Masterclasses.',
+    awardsLabel: 'Auszeichnungen & Anerkennung',
+    langLabel: 'Sprachen',
+    repLabel: 'Opernrepertoire',
+    pressLabel: 'Für Agenturen & Theater',
+    pressTitle: 'Offizielles Press Kit',
+    pressDesc: 'Laden Sie das umfassende Curriculum Vitae mit biografischen Details und Repertoireliste herunter.',
+    download: 'PDF Herunterladen',
+    back: 'Zurück zur Startseite'
+  },
+  contact: {
+    label: 'Kontakt',
+    title1: 'Lassen Sie uns',
+    title2: 'gemeinsam erschaffen',
+    desc: 'Ob Sie einen führenden Tenor, einen Gesangspädagogen oder einen kulturellen Partner suchen – ich freue mich auf Ihre Nachricht.',
+    whatsappLabel: 'WhatsApp',
+    whatsappTitle: 'Bevorzugter Kanal',
+    whatsappDesc: 'Schreiben Sie für eine schnelle Antwort – Buchungen, Masterclasses, Kooperationen.',
+    email: 'E-Mail',
+    emailLabel: 'Elektronische Post',
+    emailDesc: 'Für formelle Anfragen und detaillierte Buchungsanfragen.',
+    sendEmail: 'E-Mail senden',
+    phone: 'Telefon',
+    phoneLabel: 'Direktwahl',
+    phoneDesc: 'Montag–Freitag, 9:00–17:00 MEZ/MESZ. Bitte erst per WhatsApp anfragen.',
+    call: 'Anrufen',
+    location: 'Standort',
+    locationLabel: 'Ansässig in',
+    locationDesc: 'Verfügbar für Engagements europaweit und international.',
+    timezone: 'Mitteleuropäische Zeit (UTC+1 / UTC+2)',
+    mcLabel: 'Gesangsausbildung',
+    mcTitle: 'Masterclass-Anfragen',
+    mcDesc: 'Einzel- und Gruppen-Masterclasses für Tenor-Repertoire in 5 Sprachen.',
+    mcEnquire: 'Per WhatsApp anfragen'
+  },
+  footer: {
+    subtitle: 'Tenor · Gesangspädagoge · Regensburg',
+    impressum: 'Impressum',
+    privacy: 'Datenschutz',
+    rights: 'Alle Rechte vorbehalten'
+  },
+  cookies: {
+    title: 'Diese Website nutzt Cookies für ein optimales Nutzererlebnis.',
+    desc: 'Mit der Nutzung unserer Website erklären Sie sich mit unserer ',
+    policyLink: 'Datenschutzerklärung',
+    policyAgree: ' einverstanden.',
+    accept: 'Einverstanden'
+  },
+  performancesData: [
+    { num: '01', aria: 'Che gelida manina', role: 'Rodolfo', opera: 'La Bohème', composer: 'Puccini', filter: 'Puccini', src: 'videos/video-1.mp4' },
+    { num: '02', aria: 'Recondita armonia', role: 'Cavaradossi', opera: 'Tosca', composer: 'Puccini', filter: 'Puccini', src: 'videos/video-2.mp4' },
+    { num: '03', aria: 'Amaro sol per te', role: 'Cavaradossi', opera: 'Tosca — Duett 3. Akt', composer: 'Puccini', filter: 'Puccini', src: 'videos/video-3.mp4' },
+    { num: '04', aria: 'Teco io sto (Duett)', role: 'Riccardo', opera: 'Un Ballo in Maschera — 2. Akt', composer: 'Verdi', filter: 'Verdi', src: 'videos/video-4.mp4' },
+    { num: '05', aria: 'Non sai tu (Duett)', role: 'Riccardo', opera: 'Un Ballo in Maschera', composer: 'Verdi', filter: 'Verdi', src: 'videos/video-5.mp4' },
+    { num: '06', aria: 'Di tu se fedele', role: 'Riccardo', opera: 'Un Ballo in Maschera — 1. Akt', composer: 'Verdi', filter: 'Verdi', src: 'videos/video-6.mp4' },
+    { num: '07', aria: "La fleur que tu m'avais jetée", role: 'Don José', opera: 'Carmen', composer: 'Bizet', filter: 'Bizet', src: 'videos/video-7.mp4' },
+    { num: '08', aria: 'Eisenstein Auftritt', role: 'Eisenstein', opera: 'Die Fledermaus', composer: 'J. Strauss II', filter: 'Strauss', src: 'videos/video-8.mp4' },
+    { num: '09', aria: 'Uhren-Szene', role: 'Eisenstein', opera: 'Die Fledermaus', composer: 'J. Strauss II', filter: 'Strauss', src: 'videos/video-9.mp4' },
+    { num: '10', aria: "'O sole mio", role: '', opera: 'Neapolitanisches Lied', composer: 'Di Capua', filter: 'Other', src: 'videos/video-10.mp4' },
+  ],
+  timelineData: [
+    { year: '1992', title: 'Staatliches Konservatorium Odessa', desc: 'Studium bei Maestro Mykola Ogrenich. Master of Music in Gesang.' },
+    { year: '1995', title: 'Nationale Akademische Oper Odessa', desc: 'Erster Solist für zwei Jahrzehnte ununterbrochenen Dienstes.' },
+    { year: '1999', title: 'Internationales Bühnendebüt', desc: 'Mariinski-Theater, Lettische Nationaloper, Nationaloper der Ukraine und italienische Häuser.' },
+    { year: '2000', title: 'Concertgebouw Amsterdam', desc: 'Konzerte mit dem Vara Radio Orchestra. Lettische, slowenische und moldawische Staatsphilharmonien.' },
+    { year: '2002', title: 'Mit Luciano Pavarotti', desc: 'Gemeinsames Konzert mit Maestro Pavarotti in Sassuolo, Italien.' },
+    { year: '2014', title: 'Regieassistenz', desc: 'Regieassistent für Tosca, Carmen, Butterfly, Rigoletto am Liverpool Empire, Manchester, Glasgow.' },
+    { year: '2019', title: 'Jishou Universität, China', desc: 'Gesangsdozent. Internationales Kulturaustauschprogramm.' },
+    { year: '2021', title: 'Strauss — Salome (Herodes)', desc: 'Kritisch gefeierte Produktion, unterstützt durch den Ukrainischen Kulturfonds.' },
+  ],
+  repertoireData: [
+    { composer: 'Puccini', roles: 'Rodolfo, Cavaradossi, Pinkerton' },
+    { composer: 'Verdi', roles: 'Riccardo, Herzog, Alfredo, Carlos, Manrico' },
+    { composer: 'Bizet', roles: 'Don José' },
+    { composer: 'Tschaikowski', roles: 'Hermann, Lenski' },
+    { composer: 'Mozart', roles: 'Don Basilio, Mozart (Mozart & Salieri)' },
+    { composer: 'Donizetti', roles: 'Edgardo, Nemorino' },
+    { composer: 'Mussorgski', roles: 'Grigori, Schuiski, Jurodiwyi' },
+    { composer: 'J. Strauss II', roles: 'Eisenstein' },
+    { composer: 'R. Strauss', roles: 'Herodes (Salome)' },
+    { composer: 'Borodin', roles: 'Wladimir Igorewitsch' },
+    { composer: 'Rimski-Korsakow', roles: 'Gennaro' },
+    { composer: 'Prokofjew', roles: 'Verschiedene Rollen' },
+  ],
+  awardsData: [
+    { year: '1994', prize: '2. Preis', comp: 'Internationaler Antonin-Dvořák-Wettbewerb', location: 'Tschechien' },
+    { year: '1997', prize: '2. Preis', comp: 'I.-Patorzhinsky-Wettbewerb', location: 'Ukraine' },
+    { year: '1998', prize: 'Sonderpreis „Sigulda“', comp: 'Hans-Gabor-Belvedere-Wettbewerb', location: 'Österreich' },
+  ],
+  languagesData: [
+    { lang: 'Ukrainisch', level: 'Muttersprache' },
+    { lang: 'Russisch', level: 'Muttersprache' },
+    { lang: 'Englisch', level: 'Fließend' },
+    { lang: 'Italienisch', level: 'Fließend' },
+    { lang: 'Polnisch', level: 'Fließend' },
+    { lang: 'Französisch', level: 'Konversationssicher' },
+    { lang: 'Deutsch', level: 'Konversationssicher' },
+    { lang: 'Rumänisch', level: 'Konversationssicher' },
+  ],
+  legal: {
+    impressum: 'Impressum',
+    privacy: 'Datenschutzerklärung',
+    back: 'Zurück zur Startseite',
+    sections: {
+      angaben: 'Angaben gemäß § 5 TMG',
+      kontakt: 'Kontakt',
+      verantwortlich: 'Verantwortlich nach § 55 Abs. 2 RStV'
+    }
+  }
+};
