@@ -1,7 +1,7 @@
 export default {
   nav: {
     home: 'Startseite',
-    about: 'Il Maestro',
+    about: 'Maestro',
     contact: 'Kontakt',
     bookNow: 'Buchen',
     tenor: 'Ruslan Zinevych · Tenor'
@@ -10,7 +10,7 @@ export default {
     label: 'Ukrainischer Tenor',
     name1: 'Ruslan',
     name2: 'Zinevych',
-    subtitle: 'Zwei Jahrzehnte auf den renommiertesten Bühnen der Welt – vom Mariinski-Theater bis zum Concertgebouw. Gesangliche Exzellenz, Regie und Pädagogik.',
+    subtitle: 'Von der Royal Albert Hall bis zum Concertgebouw. Auftritte gemeinsam mit vielen Legenden der Opernwelt. Gesangliche Exzellenz, Regie und Pädagogik.',
     watch: 'Auftritte ansehen',
     meet: 'Den Maestro kennenlernen',
     scroll: 'Scrollen'
@@ -44,7 +44,7 @@ export default {
     label: 'Tenor · Gesangspädagoge · Kulturmanager',
     title1: 'Künstlerische',
     title2: 'Exzellenz',
-    desc: 'Ruslan Zinevych ist ein bedeutender ukrainischer Tenor, dessen Karriere sich über die angesehensten Opernhäuser und Konzertsäle der Welt erstreckt. Bekannt für seine raffinierte Gesangstechnik und dramatische Vielseitigkeit, teilte er die Bühne mit legendären Persönlichkeiten der Opernwelt.',
+    desc: 'Ruslan Zinevych ist ein bedeutender ukrainischer Tenor, dessen Karriere sich über renommierte Opernhäuser und Konzertsäle der Welt erstreckt. Bekannt für seine raffinierte Gesangstechnik und dramatische Vielseitigkeit, teilte er die Bühne mit legendären Persönlichkeiten der Opernwelt.',
     origin: 'Herkunft',
     originVal: 'Czernowitz, Ukraine',
     based: 'Ansässig in',
@@ -122,6 +122,7 @@ export default {
     { year: '1999', title: 'Internationales Bühnendebüt', desc: 'Mariinski-Theater, Lettische Nationaloper, Nationaloper der Ukraine und italienische Häuser.' },
     { year: '2000', title: 'Concertgebouw Amsterdam', desc: 'Konzerte mit dem Vara Radio Orchestra. Lettische, slowenische und moldawische Staatsphilharmonien.' },
     { year: '2002', title: 'Mit Luciano Pavarotti', desc: 'Gemeinsames Konzert mit Maestro Pavarotti in Sassuolo, Italien.' },
+    { year: '2003', title: 'Royal Albert Hall, London', desc: 'Auftritt auf einer der renommiertesten Konzertbühnen der Welt.' },
     { year: '2014', title: 'Regieassistenz', desc: 'Regieassistent für Tosca, Carmen, Butterfly, Rigoletto am Liverpool Empire, Manchester, Glasgow.' },
     { year: '2019', title: 'Jishou Universität, China', desc: 'Gesangsdozent. Internationales Kulturaustauschprogramm.' },
     { year: '2021', title: 'Strauss — Salome (Herodes)', desc: 'Kritisch gefeierte Produktion, unterstützt durch den Ukrainischen Kulturfonds.' },
@@ -131,14 +132,14 @@ export default {
     { composer: 'Verdi', roles: 'Riccardo, Herzog, Alfredo, Carlos, Manrico' },
     { composer: 'Bizet', roles: 'Don José' },
     { composer: 'Tschaikowski', roles: 'Hermann, Lenski' },
-    { composer: 'Mozart', roles: 'Don Basilio, Mozart (Mozart & Salieri)' },
+    { composer: 'Mozart', roles: 'Don Basilio' },
     { composer: 'Donizetti', roles: 'Edgardo, Nemorino' },
     { composer: 'Mussorgski', roles: 'Grigori, Schuiski, Jurodiwyi' },
     { composer: 'J. Strauss II', roles: 'Eisenstein' },
     { composer: 'R. Strauss', roles: 'Herodes (Salome)' },
     { composer: 'Borodin', roles: 'Wladimir Igorewitsch' },
-    { composer: 'Rimski-Korsakow', roles: 'Gennaro' },
-    { composer: 'Prokofjew', roles: 'Verschiedene Rollen' },
+    { composer: 'Rimski-Korsakow', roles: 'Mozart (Mozart & Salieri)' },
+    { composer: 'Prokofjew', roles: 'Gennaro' },
   ],
   awardsData: [
     { year: '1994', prize: '2. Preis', comp: 'Internationaler Antonin-Dvořák-Wettbewerb', location: 'Tschechien' },

@@ -1,7 +1,7 @@
 export default {
   nav: {
     home: 'Home',
-    about: 'Il Maestro',
+    about: 'Maestro',
     contact: 'Contact',
     bookNow: 'Book Now',
     tenor: 'Ruslan Zinevych · Tenor'
@@ -10,7 +10,7 @@ export default {
     label: 'Ukrainian Tenor',
     name1: 'Ruslan',
     name2: 'Zinevych',
-    subtitle: 'Two decades on the world\'s most prestigious stages — from the Mariinsky to the Concertgebouw. Performing, directing, and cultivating vocal excellence.',
+    subtitle: 'From the Royal Albert Hall to the Concertgebouw. Performing alongside many legends of the operatic world. Performing, directing, and cultivating vocal excellence.',
     watch: 'Watch Performances',
     meet: 'Meet the Maestro',
     scroll: 'Scroll'
@@ -44,7 +44,7 @@ export default {
     label: 'Tenor · Vocal Pedagogue · Cultural Manager',
     title1: 'Artistic',
     title2: 'Excellence',
-    desc: 'Ruslan Zinevych is a distinguished Ukrainian tenor whose career spans the world\'s most prestigious opera houses and concert halls. Known for his refined vocal technique and dramatic versatility, he has shared the stage with legendary figures of the operatic world.',
+    desc: 'Ruslan Zinevych is a distinguished Ukrainian tenor whose career spans prestigious opera houses and concert halls worldwide. Known for his refined vocal technique and dramatic versatility, he has performed alongside legendary figures of the operatic world.',
     origin: 'Origin',
     originVal: 'Chernowitz, Ukraine',
     based: 'Based in',
@@ -122,6 +122,7 @@ export default {
     { year: '1999', title: 'International Stage Debut', desc: 'Mariinsky Theatre, Latvian National Opera, National Opera of Ukraine, and Italian houses.' },
     { year: '2000', title: 'Concertgebouw Amsterdam', desc: 'Concerts with Vara Radio Orchestra. Latvian, Slovenian, and Moldovan State Philharmonics.' },
     { year: '2002', title: 'With Luciano Pavarotti', desc: 'Joint concert with Maestro Pavarotti in Sassuolo, Italy.' },
+    { year: '2003', title: 'Royal Albert Hall, London', desc: 'Performance at one of the world\'s most prestigious concert stages.' },
     { year: '2014', title: 'Directorial Assistance', desc: 'Assistant Director for Tosca, Carmen, Butterfly, Rigoletto at Liverpool Empire, Manchester, Glasgow.' },
     { year: '2019', title: 'Jishou University, China', desc: 'Vocal Professor. International cultural exchange program.' },
     { year: '2021', title: 'Strauss — Salome (Herod)', desc: 'Critically acclaimed production supported by the Ukrainian Cultural Fund.' },
@@ -131,14 +132,14 @@ export default {
     { composer: 'Verdi', roles: 'Riccardo, Duke, Alfredo, Carlos, Manrico' },
     { composer: 'Bizet', roles: 'Don José' },
     { composer: 'Tchaikovsky', roles: 'Hermann, Lensky' },
-    { composer: 'Mozart', roles: 'Don Basilio, Mozart (Mozart & Salieri)' },
+    { composer: 'Mozart', roles: 'Don Basilio' },
     { composer: 'Donizetti', roles: 'Edgardo, Nemorino' },
     { composer: 'Mussorgsky', roles: 'Grigori, Shuisky, Simpleton' },
     { composer: 'J. Strauss II', roles: 'Eisenstein' },
     { composer: 'R. Strauss', roles: 'Herod (Salome)' },
     { composer: 'Borodin', roles: 'Vladimir Igorevich' },
-    { composer: 'Rimsky-Korsakov', roles: 'Gennaro' },
-    { composer: 'Prokofiev', roles: 'Various roles' },
+    { composer: 'Rimsky-Korsakov', roles: 'Mozart (Mozart & Salieri)' },
+    { composer: 'Prokofiev', roles: 'Gennaro' },
   ],
   awardsData: [
     { year: '1994', prize: '2nd Prize', comp: 'Antonin Dvořák International Competition', location: 'Czech Republic' },
